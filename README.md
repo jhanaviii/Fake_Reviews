@@ -12,7 +12,7 @@ An AI-powered web application that detects fake reviews using deep learning. Bui
 
 1. **Clone and navigate to the project:**
    ```bash
-   cd /Users/jhanaviagarwal/PycharmProjects/Fake_Reviews
+   cd Fake_Reviews
    ```
 
 2. **Install dependencies:**
@@ -237,7 +237,7 @@ CMD ["python", "web2.py"]
 2. **Full-Stack**: Backend API + frontend dashboard
 3. **Real-world Application**: E-commerce fraud detection
 4. **Scalability**: Batch processing and API design
-5. **Performance**: >85% accuracy with fast inference
+5. **Performance**: 96% accuracy with fast inference
 
 ### Demo Script
 1. Start the application: `python web2.py`
