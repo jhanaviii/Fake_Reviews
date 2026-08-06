@@ -1,0 +1,11 @@
+
+node_modules/
+venv/
+__pycache__/
+*.pyc
+*.joblib
+.env
+.DS_Store
+dist/
+.vercel/
+uploads/
